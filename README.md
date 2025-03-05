@@ -1,19 +1,11 @@
----
-title: "DTLabs API - Backend IoT"
-author: "Seu Nome"
-date: "`r Sys.Date()`"
-output: github_document
----
+# **DTLabs API - Backend IoT** 
 
-# **DTLabs API - Backend IoT** 🚀
 
----
+## Instalação e Execução
 
-## 📦 Instalação e Execução
+A API pode ser executada via **Docker**.
 
-A API pode ser executada via **Docker** (recomendado) ou **localmente** com **Python** e PostgreSQL instalados.
-
-### **🔹 Executar com Docker (Recomendado)**
+### **🔹 Executar com Docker**
 
 1. **Clone o repositório:**
    ```bash
